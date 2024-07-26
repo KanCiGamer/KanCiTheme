@@ -8,5 +8,8 @@
   --mention-background: 320;
   --mention-foreground: 260;
   --text-normal: rgb(255, 0, 0);
-  --background-accent: 320;
+  
+}
+.theme-light{
+  --background-accent: 156;
 }
