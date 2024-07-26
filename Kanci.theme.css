@@ -7,4 +7,6 @@
   --app-radius: 8px; */
   --mention-background: 320;
   --mention-foreground: 260;
+  --text-normal: rgb(255, 0, 0);
+  --background-accent: 320;
 }
